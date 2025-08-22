@@ -3,7 +3,7 @@
 ## Project Overview
 For my first project, I chose Subway delays as it is a contributing factor to my everyday travels, i wanted to visually picture and depict how often delays happened within my area among others. The goal of this is to visualize the data and detect any trends in delays across local train lines within your area.
 
-## DataSet
+## Dataset
 
 Source of data: https://data.ny.gov/Transportation/MTA-Subway-Trains-Delayed-2020-2024/wx2t-qtaz/about_data
 This dataset contains records of subway delays across 2020-2024 including its month, weekday/weekend, line, and reported cause of delay.
