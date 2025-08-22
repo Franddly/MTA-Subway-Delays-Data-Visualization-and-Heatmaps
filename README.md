@@ -1,6 +1,6 @@
 # MTA Subway Delays(2020-2024): Data Visualization and Heatmaps
 
-##Project Overview
+## Project Overview
 For my first project, I chose Subway delays as it is a contributing factor to my everyday travels, i wanted to visually picture and depict how often delays happened within my area among others. The goal of this is to visualize the data and detect any trends in delays across local train lines within your area.
 
 ## DataSet
